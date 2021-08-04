@@ -1,0 +1,15 @@
+{
+  "name": "@batmo/macli",
+  "version": "0.0.4",
+  "description": "my mac config",
+  "main": "index.js",
+  "preferGlobal": true,
+  "bin": {
+    "mac-cli": "./index.js"
+  },
+  "license": "ISC",
+  "author": "MQ",
+  "dependencies": {
+    "commander": "^8.1.0"
+  }
+}
